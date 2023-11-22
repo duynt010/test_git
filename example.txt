@@ -1,0 +1,11 @@
+This is a Linux tutorial.
+Linux is a versatile operating system.
+
+It's common to encounter an error while learning.
+Linux is popular among developers.
+
+Sometimes a file might be empty.
+Or it contains various data types.
+
+The end of the file might have special notes.
+Or it could just end abruptly.
